@@ -5,7 +5,7 @@ import {
   StatisticsTitleH,
   BlockStatisticsDiv,
   StatisticsSpan,
-} from './Statistics.styles';
+} from './Statistics.styled';
 
 export const Statistics = ({ clicks, total, positiv }) => {
   return (
